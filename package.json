@@ -1,0 +1,22 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misaelalamillo/notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misaelalamillo/notes/issues"
+  },
+  "homepage": "https://github.com/misaelalamillo/notes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
